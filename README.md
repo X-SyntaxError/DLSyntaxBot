@@ -2,9 +2,6 @@
 <a href="#"><img title="DLSyntaxBot" src="https://img.shields.io/badge/DL Syntax Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/X-SyntaxError"><img title="Author" src="https://img.shields.io/badge/Author-X-SyntaxError-orange.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
 <a href="https://github.com/X-SyntaxError/DLSyntaxBot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/X-SyntaxError/DLSyntaxBot?color=red&style=flat-square"></a>
 <a href="https://github.com/X-SyntaxError/DLSyntaxBot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/X-SyntaxError/DLSyntaxBot?color=red&style=flat-square"></a>
 <a href="https://github.com/X-SyntaxError/DLSyntaxBot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/X-SyntaxError/DLSyntaxBot?label=Watchers&color=blue&style=flat-square"></a>
